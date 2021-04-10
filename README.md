@@ -23,7 +23,7 @@ Se possível, realize a gravação de costas para uma parede branca, ou fundo ne
 ## Em frente às câmeras
 Lembre-se que a orientação do vídeo é na horizontal, então, posicione-se de forma centralizada ao vídeo. 
 
-(incluir a imagem!)
+![img](https://raw.githubusercontent.com/DATAUNIRIO/TalkProposal/main/img/Imagem1.png)
 
 Você pode realizar a gravação com um aparelho smartphone, câmera, ou mesmo a webcam. Se necessário, utilize um tripé, ou calços, para encontrar a melhor altura e ângulo. Utilize o microfone do seu fone de ouvido, por exemplo, para melhorar a captação de sua voz.
 
@@ -32,26 +32,26 @@ O OBS Studio é um software gratuito que poderá lhe ajudar na gravação de sua
 Para baixar, acesse: https://obsproject.com/pt-br/download
 Instale-o em seu computador e ao abrir você terá a seguinte tela
 
-(incluir a imagem!)
+![img](https://raw.githubusercontent.com/DATAUNIRIO/TalkProposal/main/img/Imagem2.png)
 
 Para a captura de sua palestra, basicamente, você precisará configurar duas cenas.
 A primeira cena será a sua câmera.
 A segunda cena será a de sua área de trabalho e com a possibilidade ainda de você estar também.
 Para configurar suas cenas, utilize o botão “+” em fontes e adicione o dispositivo de captura de vídeo, a captura de tela, a logo do evento, entre tantas outras possibilidades.
 
-(incluir a imagem!)
+![img](https://raw.githubusercontent.com/DATAUNIRIO/TalkProposal/main/img/Imagem3.png)
 
 Cena 1, com o dispositivo de captura de vídeo e imagem da logo “SER”.
 
-(incluir a imagem!)
+![img](https://raw.githubusercontent.com/DATAUNIRIO/TalkProposal/main/img/Imagem4.png)
 
 Cena 2, captura de tela ao fundo, dispositivo de captura de vídeo no canto inferior direito e a imagem da logo “SER no canto inferior esquerdo.
  
- (incluir a imagem!)
+![img](https://raw.githubusercontent.com/DATAUNIRIO/TalkProposal/main/img/Imagem5.png)
  
 Com as cenas configuradas, você está pronto para começar a gravar. Para isso, deixe previamente aberto a sua apresentação, ou programa que deseje apresentar e clique em “Iniciar gravação”. 
 
-(incluir a imagem!)
+![img](https://raw.githubusercontent.com/DATAUNIRIO/TalkProposal/main/img/Imagem6.png)
 
 A partir desse momento, o OBS estará gravando tudo o que você estiver executando em seu computador. 
 
