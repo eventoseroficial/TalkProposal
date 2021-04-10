@@ -1,15 +1,3 @@
----
-date: "10/04/2021"
-output: github_document
----
-
-Installation
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # TalkProposal
 Olá!
 Nos adaptando aos novos tempos, a 5ª edição do SER em 2021 será completamente online.
