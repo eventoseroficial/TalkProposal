@@ -23,7 +23,7 @@ Se possível, realize a gravação de costas para uma parede branca, ou fundo ne
 ## Em frente às câmeras
 Lembre-se que a orientação do vídeo é na horizontal, então, posicione-se de forma centralizada ao vídeo. 
 
-(incluir a imagem!)
+![img](https://raw.githubusercontent.com/DATAUNIRIO/TalkProposal/main/img/Imagem1.png)
 
 Você pode realizar a gravação com um aparelho smartphone, câmera, ou mesmo a webcam. Se necessário, utilize um tripé, ou calços, para encontrar a melhor altura e ângulo. Utilize o microfone do seu fone de ouvido, por exemplo, para melhorar a captação de sua voz.
 
