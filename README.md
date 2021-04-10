@@ -47,11 +47,11 @@ Cena 1, com o dispositivo de captura de vídeo e imagem da logo “SER”.
 
 Cena 2, captura de tela ao fundo, dispositivo de captura de vídeo no canto inferior direito e a imagem da logo “SER no canto inferior esquerdo.
  
- (incluir a imagem!)
+![img](https://raw.githubusercontent.com/DATAUNIRIO/TalkProposal/main/img/Imagem5.png)
  
 Com as cenas configuradas, você está pronto para começar a gravar. Para isso, deixe previamente aberto a sua apresentação, ou programa que deseje apresentar e clique em “Iniciar gravação”. 
 
-(incluir a imagem!)
+![img](https://raw.githubusercontent.com/DATAUNIRIO/TalkProposal/main/img/Imagem6.png)
 
 A partir desse momento, o OBS estará gravando tudo o que você estiver executando em seu computador. 
 
